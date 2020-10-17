@@ -2,8 +2,7 @@
 
 Skills: C# / ASP.NET MVC/ ASP.NET MVC CORE / WEB API / JS / HTML / CSS
 
-- 🔭 I’m currently working on dNA Bütünleşik Bilgi Teknolojileri ve Yazılım 
-- 🌱 I’m currently learning Microservice Architecture 
+- 🔭 I’m currently working on Fonet Yazılım 
 - 📫 How to reach me: fundasarikaya58@gmail.com 
 
 
