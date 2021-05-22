@@ -2,7 +2,7 @@
 
 Skills: C# / ASP.NET MVC/ ASP.NET MVC CORE / WEB API / JS / HTML / CSS / Flutter
 
-- 🔭 I’m currently working on Fonet Yazılım 
+- 🔭 I’m currently working on Akbank
 - 📫 How to reach me: fundasarikaya58@gmail.com 
 
 
