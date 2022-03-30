@@ -1,8 +1,8 @@
 ### Hi there 👋, My name is Funda
 
-Skills: C# / ASP.NET MVC/ ASP.NET MVC CORE / WEB API / JS / HTML / CSS / Flutter
+Skills: C# / ASP.NET MVC/ ASP.NET MVC CORE / WEB API / JS / HTML / CSS / Flutter / MSSQL / ORACLE 
 
-- 🔭 I’m currently working on Akbank
+- 🔭 I’m currently working on Softtech
 - 📫 How to reach me: fundasarikaya58@gmail.com 
 
 <!-- <img src="https://komarev.com/ghpvc/?username=fundasarikaya" /> -->
